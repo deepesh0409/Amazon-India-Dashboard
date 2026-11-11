@@ -1,0 +1,6 @@
+{
+  "name": "Amazon India Executive Dashboard",
+  "description": "Executive management dashboard for Amazon India operations by Sapphire IQ, covering Sales & Profit, Categories & Products, Order Status & Loss, and Payment, Fulfillment & Geographic Performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
